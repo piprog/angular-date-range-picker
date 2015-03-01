@@ -5,7 +5,7 @@
     "Tymon Tobolski <tymon.tobolski@monterail.com>",
     "Krzysztof Jung <krzysztof.jung@monterail.com>"
   ],
-  "repository": "git://github.com/monterail/angular-date-range-picker.git",
+  "repository": "git://github.com/piprog/angular-date-range-picker.git",
   "description": "Date Picker without jQuery",
   "main": [
     "angular-date-range-picker.js",
@@ -18,5 +18,5 @@
     "moment-range": "~1.0.1"
   },
   "license": "MIT",
-  "homepage": "http://github.com/monterail/angular-date-range-picker"
+  "homepage": "http://github.com/piprog/angular-date-range-picker"
 }
